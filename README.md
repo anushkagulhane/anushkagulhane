@@ -6,7 +6,7 @@ I build production-style backend systems using Java 17/21, Spring Boot, Kafka, P
 
 I am currently strengthening my expertise in distributed systems, system design, cloud architecture, backend performance, observability and AI-powered backend applications.
 
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/anushkagulhane1/]) | [Email](mailto:anushkagulhane96@gmail.com) | [GitHub](https://github.com/anushkagulhane)
+[LinkedIn](https://www.linkedin.com/in/anushkagulhane1/) | [Email](mailto:anushkagulhane96@gmail.com) | [GitHub](https://github.com/anushkagulhane)
 
 ## Additional Technical Signals
 
