@@ -21,7 +21,7 @@ I am currently strengthening my expertise in distributed systems, system design,
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [Evently](https://github.com/anushkagulhane/evently) | Event ticketing and payment platform built with Java and Spring Boot, designed around REST APIs, microservices and reliable payment workflows. | Java 17, Spring Boot, PostgreSQL, REST APIs, Validation, Payment Integration |
+| [Evently](https://github.com/anushkagulhane/evently) | Event ticketing and payment platform built with Java and Spring Boot, designed around REST APIs, microservices and reliable payment workflows. | Java 21, Spring Boot, REST APIs, Microservices, PostgreSQL, Payment Integration |
 
 ## Core Stack
 
