@@ -17,6 +17,8 @@ I am currently strengthening my expertise in distributed systems, system design,
 - Focused on writing production-oriented code with testing, clean architecture, observability, security and failure handling.
 - Actively strengthening system-design and distributed-systems knowledge through hands-on implementations and technical experiments.
 
+| [Evently](https://github.com/anushkagulhane/evently) | Event ticketing and payment platform built with Java and Spring Boot, designed around REST APIs, microservices and reliable payment workflows. | Spring Boot, Java, PostgreSQL, REST APIs, validation, payment integration and production-oriented backend design. |
+
 ## Core Stack
 
 ```text
